@@ -39,9 +39,14 @@ This data was provided by the data analysis instructor of the academy following 
     
          ### Data Analysis
  
-     With the use of Pivot tables and Filter options, I was able to analyze the rate of sales according to the publishers and years in relation to each game sold. In addition I was able to determine the percentage of sales of each game belonging to different Genres on several platforms. I also used Conditional formatting to detrmine top highest sales.
- 
+     With the use of Pivot tables, Pivot Charts and Filter options, I was able to analyze the rate of sales according to the publishers and years in relation to each game sold. In addition I was able to determine the percentage of sales of each game belonging to different Genres on several platforms. I also used Conditional formatting to detrmine top highest sales.
+     
+     ![image](https://github.com/Follaetal/Analysis-of-Sales-of-Video-Games/assets/148357576/a424ad8d-358d-44e0-b821-9214467b902d)
+
+
+
      ### Summary of results
+     
      At the conclusion of the analysis, I was able to evaluate the trend of sales of video games.
   - Action Games has the highest sales as it had 19.98% of the total sales.
   - The sales of video games have been steadily increasing from 1980 to 2008 which was the peak of sales but there was a quick decline from 2010 to 2020.
